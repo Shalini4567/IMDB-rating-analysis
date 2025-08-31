@@ -1,4 +1,4 @@
-Description :
+-------Description :--------
 This project analyzes a dataset of movies to extract insights about revenue, ratings, genres, directors, and actors.
 It includes visualizations such as bar charts, histogram, and word clouds to summarize the data and highlight trends in the film industry.
 Dataset
